@@ -39,10 +39,9 @@ Project consists of a University Network that incorporates the configuration of 
 - <b>Do Show CDP Neighbor (do sh cdp neighb)</b>
 - <b>Do Show CDP Neighbor Detail (do sh cdp neighbor det)</b>
 - <b>Do Show IP Interface Brief (do sh ip int bri)</b>
-- <b>Router Rip (router ri)</b>
-- <b>Version 2 (version 2)</b>
+- <b>Router OSPF (router os)</b>
 - <b>Do Show IP Route (do sh ip rout)</b>
-- <b>Do Show IP Route RIP (do sh ip rout ri)</b>
+- <b>Do Show IP Route OSPF (do sh ip rout ri)</b>
 
 <h2>Environments Used </h2>
 
@@ -51,45 +50,44 @@ Project consists of a University Network that incorporates the configuration of 
 <h2>Configuration walk-through:</h2>
 
 <p align="center">
-VLAN configuration: <br/>
-<img src="https://www.image2url.com/r2/default/images/1788313780814-1e888172-9a0d-4f15-9af0-40129356d8f4.png" alt="Vlan Config Steps" />
+VLAN configuration (SW-1 ADMIN): <br/>
+<img src="https://www.image2url.com/r2/default/images/1788938923719-1a66d3f8-7d2e-449a-a951-5e2d08687a06.png" alt="VLAN Configuration" />
 <br />
 <br />
-Switchport Access Config:  <br/>
-<img src="https://www.image2url.com/r2/default/images/1788317218312-b8258876-8c00-477d-9569-9f451638eb29.png" alt="Switchport Access Config Steps" />
+VLAN configuration (SW-2 HR):  <br/>
+<img src="https://www.image2url.com/r2/default/images/1788940559890-98137842-f8af-4807-8c40-7f1953a84a63.png" alt="VLAN Configuration" />
 <br />
 <br />
-Switchport Access Config: <br/>
-<img src="https://www.image2url.com/r2/default/images/1788317969341-d070d81b-7573-40fe-a084-e0eccf09af29.png" alt="Switchport Access Config Steps Con't" />
+VLAN configuration (SW-3 FINANCE):  <br/>
+<img src="https://www.image2url.com/r2/default/images/1788940732849-a19fe9c7-d771-4e29-928c-1c0a43dfb0c7.png" alt="VLAN Configuration" />
 <br />
 <br />
-Router Subinterface Configuration:  <br/>
-<img src="https://www.image2url.com/r2/default/images/1788319329643-999dffca-61ae-4899-b9e2-c374250e49a1.png" alt="Router Configuration Steps" />
+VLAN configuration (SW-4 BUSINESS):  <br/>
+<img src="https://www.image2url.com/r2/default/images/1788943783306-c8680160-2652-4316-a18b-f4c78048ad3b.png" alt="VLAN Configuration" />
 <br />
 <br />
-Router Subinterface Configuration (continued):  <br/>
-<img src="https://www.image2url.com/r2/default/images/1788319519484-442844d6-1e86-4119-a98e-c958deccb4e2.png" alt="Router Configuration Steps" />
+VLAN configuration (SW-5 ENERGY):  <br/>
+<img src="https://www.image2url.com/r2/default/images/1788946181422-4e0b92c5-7c49-4cc7-802b-0a86cfdf0cde.png" alt="VLAN Configuration" />
 <br />
 <br />
-Router Subinterface Configuration (continued):  <br/>
-<img src="https://www.image2url.com/r2/default/images/1788339247988-1230d506-da28-4967-bbf0-9eb8329735bc.png" alt="Router Configuration Steps" />
- Add a /26 subnet mask for the ip addr 192.168.1.129
+VLAN configuration (SW-6 ART&DESIGN):  <br/>
+<img src="https://www.image2url.com/r2/default/images/1788944112688-9416a806-55fa-4a98-8092-833e0aa1979f.png" alt="VLAN Configuration" />
 <br />
 <br />
-Router DHCP Configuration:  <br/>
-<img src="https://www.image2url.com/r2/default/images/1788346272982-4b5f063a-fedd-4979-943a-7cf38bb07b56.png" alt="DHCP Configuration" />
+VLAN configuration (SW-7 STD-LABS):  <br/>
+<img src="https://www.image2url.com/r2/default/images/1788945936280-f350bccc-3965-492f-8acd-c747b5805a08.png" alt="VLAN Configuration" />
 <br />
 <br />
-Router DHCP Configuration (continued):  <br/>
-<img src="https://www.image2url.com/r2/default/images/1788346830053-c6b86169-a53c-4d7f-83fb-4310281591a2.png" alt="DHCP Configuration" />
+VLAN configuration (SW-8 IT):  <br/>
+<img src="https://www.image2url.com/r2/default/images/1788946468168-bd0223f6-5877-4729-81c6-4f7de6c2e47b.png" alt="VLAN Configuration" />
 <br />
 <br />
-SSH Configuration:  <br/>
-<img src="https://www.image2url.com/r2/default/images/1788347531109-e5c47e6f-b3a1-4bdb-b511-8fbfe9fa8403.png" alt="SSH Configuration" />
+VLAN configuration (SW-9 STAFF):  <br/>
+<img src="https://www.image2url.com/r2/default/images/1788946694336-2165a477-0253-4d0a-8804-01b07937523c.png" alt="VLAN Configuration" />
 <br />
 <br />
-SSH Configuration (continued):  <br/>
-<img src="https://www.image2url.com/r2/default/images/1788348028844-86682d2d-b682-4d34-be58-ea4e721a4a1d.png" alt="SSH Configuration" />
+VLAN configuration (SW-10 STD-LABS):  <br/>
+<img src="https://www.image2url.com/r2/default/images/1788946863382-7f8f48af-f5ae-49cb-b3f3-260190b70e3f.png" alt="VLAN Configuration" />
 <br />
 <br />
 SSH Configuration (continued):  <br/>
