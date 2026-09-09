@@ -12,7 +12,37 @@ Project consists of a University Network that incorporates the configuration of 
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>Cisco CLI</b> 
+- <b>Cisco CLI</b>
+
+<h2>Cisco CLI Commands Used</h2>
+
+- <b>Enable (en)</b>
+- <b>Configure Terminal (conf t)</b>
+- <b>Do Show Vlan (do sh vlan)</b>
+- <b>Do Show Interfaces Status (do sh interfaces status)</b>
+- <b>Interface Range (int range)</b>
+- <b>Switchport Mode Access (sw mod acc)</b>
+- <b>Switchport Access vlan (sw acc vlan)b>
+- <b>Do Write (do wr)</b>
+- <b>Do Show Run (do sh run)</b>
+- <b>Switchport Mode Trunk (sw mod trunk)</b>
+- <b>Do Show Controllers Serial (do sh controll se)</b>
+- <b>Clock Rate(clock ra)</b>
+- <b>Service DHCP (service dhc)</b>
+- <b>IP DHCP Pool (ip dhcp pool)</b>
+- <b>Network (netwo)</b>
+- <b>Default-Router (defaul)</b>
+- <b>DNS-Server (dns)</b>
+- <b>Domain-Name (domai)</b>
+- <b>Encapsulation Dot1q (encap dot)</b>
+- <b>CDP Run (cdp run)</b>
+- <b>Do Show CDP Neighbor (do sh cdp neighb)</b>
+- <b>Do Show CDP Neighbor Detail (do sh cdp neighbor det)</b>
+- <b>Do Show IP Interface Brief (do sh ip int bri)</b>
+- <b>Router Rip (router ri)</b>
+- <b>Version 2 (version 2)</b>
+- <b>Do Show IP Route (do sh ip rout)</b>
+- <b>Do Show IP Route RIP (do sh ip rout ri)</b>
 
 <h2>Environments Used </h2>
 
