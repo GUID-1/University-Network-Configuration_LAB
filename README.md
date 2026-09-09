@@ -90,14 +90,28 @@ VLAN configuration (SW-10 STD-LABS):  <br/>
 <img src="https://www.image2url.com/r2/default/images/1788946863382-7f8f48af-f5ae-49cb-b3f3-260190b70e3f.png" alt="VLAN Configuration" />
 <br />
 <br />
-SSH Configuration (continued):  <br/>
-<img src="https://www.image2url.com/r2/default/images/1788349472605-c13fbd5b-2431-4417-87d9-9da06f715b92.png" alt="SSH Configuration" />
+VLAN & Switchport configuration (L3-SW MAIN-CAMPUS):  <br/>
+<img src="https://www.image2url.com/r2/default/images/1788349472605-c13fbd5b-2431-4417-87d9-9da06f715b92.png" alt="VLAN Configuration" />
+<img src="https://www.image2url.com/r2/default/images/1788953237741-2d1477ef-c223-4b68-b57e-fe2eebae6501.png" alt="Switchport Trunk" />
 <br />
 <br />
-SSH Configuration (continued):  <br/>
-<img src="https://www.image2url.com/r2/default/images/1788350016099-1ce015ef-356d-4a32-b3e0-c64d41dcae23.png" alt="SSH Configuration" />
+Router configuration (R1 MAIN-CAMPUS):  <br/>
+<img src="https://www.image2url.com/r2/default/images/1788953953565-36a432d1-ab74-46a3-bfa3-78d9519211f7.png" alt="DHCP Service" />
+<img src="https://www.image2url.com/r2/default/images/1788954205662-b27e6825-c44c-4f3e-bbb1-b859f645db13.png" alt="Interface Activation" />
+<img src="https://www.image2url.com/r2/default/images/1788954366813-3f3311ed-ac20-4c80-bb1e-2b7eff9e5e38.png" alt="Interface Activation" />
 <br />
 <br />
+Router configuration (R2 BRANCH-CAMPUS):  <br/>
+<img src="https://www.image2url.com/r2/default/images/1788953658052-51a02771-596f-4a74-92b4-df4ccdfc88a9.png" alt="Switchport Configuration" />
+<img src="https://www.image2url.com/r2/default/images/1788954475657-e6ab5100-e6ca-4085-940b-af178d64e8be.png" alt="Interface Activation" />
+<br />
+<br />
+Router configuration (R3 CLOUD):  <br/>
+<img src="https://www.image2url.com/r2/default/images/1788954880301-f069ffda-53fe-4011-9f74-b69bdc9b222a.png" alt="Interface Activation" />
+<img src="https://www.image2url.com/r2/default/images/1788954475657-e6ab5100-e6ca-4085-940b-af178d64e8be.png" alt="Interface Activation" />
+<br />
+<br />
+ 
   SOP: Configure a Router-on-a-Stick Network with VLANs, DHCP, Wireless Access, and SSH
 
 ### Objective
