@@ -91,8 +91,17 @@ VLAN configuration (SW-10 STD-LABS):  <br/>
 <br />
 <br />
 VLAN & Switchport configuration (L3-SW MAIN-CAMPUS):  <br/>
-<img src="https://www.image2url.com/r2/default/images/1788349472605-c13fbd5b-2431-4417-87d9-9da06f715b92.png" alt="VLAN Configuration" />
+<img src="https://www.image2url.com/r2/default/images/1789008893008-6bb9e91f-35a9-4764-ab5a-8d4c369edbd7.png" alt="VLAN Configuration" />
+<img src="https://www.image2url.com/r2/default/images/1789008990878-c763a9de-5947-42fa-88a1-e5def5227dd3.png" alt="VLAN Configuration" />
+<img src="https://www.image2url.com/r2/default/images/1789009103587-c3e7d6e6-0d45-4fe0-8d4c-4c544f0fd0e0.png" alt="VLAN Configuration" />
+<img src="https://www.image2url.com/r2/default/images/1789009223061-5269e2d5-2e92-4de4-b52c-bb93e57a6e24.png" alt="VLAN Configuration" />
+<img src="https://www.image2url.com/r2/default/images/1789009309927-7f528703-7e44-4cd7-b129-6f617a1e79e2.png" alt="VLAN Configuration" />
 <img src="https://www.image2url.com/r2/default/images/1788953237741-2d1477ef-c223-4b68-b57e-fe2eebae6501.png" alt="Switchport Trunk" />
+<br />
+<br />
+VLAN configuration (L3-SW BRANCH-CAMPUS):  <br/>
+<img src="https://www.image2url.com/r2/default/images/1789009745285-0e8e4e74-ce60-41cb-b761-ec36a58c9dd1.png" alt="VLAN Configuration" />
+<img src="https://www.image2url.com/r2/default/images/1789009819738-7b39292c-d6ce-4d56-86e5-8f6ba6d7c5bb.png" alt="VLAN Configuration" />
 <br />
 <br />
 Router configuration (R1 MAIN-CAMPUS):  <br/>
@@ -148,23 +157,43 @@ Router Sub-interface Configuration (R1 MAIN_CAMPUS):  <br/>
 <img src="https://www.image2url.com/r2/default/images/1789005469994-4c9fbd09-e3c9-423e-9b6e-6c14f99a1557.png" alt="Sub-Interface Configuration" />
 <br />
 <br />
-CDP configuration (SW-7 STD-LABS):  <br/>
-<img src="https://www.image2url.com/r2/default/images/1788945936280-f350bccc-3965-492f-8acd-c747b5805a08.png" alt="VLAN Configuration" />
+Static IP Configuration (WEB-SERVER):  <br/>
+<img src="https://www.image2url.com/r2/default/images/1789005942793-cf0e22c6-339f-4788-9405-f7a0fc6d9189.png" alt="Static IP Configuration" />
 <br />
 <br />
-CDP configuration (SW-8 IT):  <br/>
-<img src="https://www.image2url.com/r2/default/images/1788946468168-bd0223f6-5877-4729-81c6-4f7de6c2e47b.png" alt="VLAN Configuration" />
+Static IP Configuration (FTP-SERVER):  <br/>
+<img src="https://www.image2url.com/r2/default/images/1789006052930-7986d840-9e0e-4ade-a192-e47e2e892754.png" alt="Static IP Configuration" />
 <br />
 <br />
-CDP configuration (SW-9 STAFF):  <br/>
-<img src="https://www.image2url.com/r2/default/images/1788946694336-2165a477-0253-4d0a-8804-01b07937523c.png" alt="VLAN Configuration" />
+Router IP Address Configuration (R1 MAIN_CAMPUS):  <br/>
+<img src="https://www.image2url.com/r2/default/images/1789006799590-1a0397fc-b7b4-40c7-94fa-ca48975fb428.png" alt="IP Address Configuration" />
 <br />
 <br />
-CDP configuration (SW-10 STD-LABS):  <br/>
-<img src="https://www.image2url.com/r2/default/images/1788946863382-7f8f48af-f5ae-49cb-b3f3-260190b70e3f.png" alt="VLAN Configuration" />
+Router IP Address Configuration (R2 BRANCH_CAMPUS):  <br/>
+<img src="https://www.image2url.com/r2/default/images/1789007019212-658c4b91-5154-4543-99db-42191868126a.png" alt="IP Address Configuration" />
 <br />
 <br />
- 
+Router IP Address Configuration (R3 CLOUD):  <br/>
+<img src="https://www.image2url.com/r2/default/images/1789007174975-f61fbf64-1ccf-47cb-b924-5cecea198700.png" alt="IP Address Configuration" />
+<br />
+<br />
+Static IP Configuration (FTP-SERVER): 
+<img src="https://www.image2url.com/r2/default/images/1789007351394-111f51b7-fce6-4c2a-a27a-4e3c7cb36995.png" alt="Static IP Configuration" />
+<br />
+<br />
+Router Routing Protocol Configuration (R2 BRANCH_CAMPUS):  <br/>
+<img src="https://www.image2url.com/r2/default/images/1789007563085-8a4c1ce9-558f-4d77-892e-d82037d20a87.png" alt="OSPF Configuration" />
+<img src="https://www.image2url.com/r2/default/images/1789007699356-638d828f-a0a8-4851-af80-fbcb1785abb3.png" alt="OSPF Configuration" />
+<br />
+<br />
+Router Routing Protocol Configuration (R1 MAIN_CAMPUS):  <br/>
+<img src="https://www.image2url.com/r2/default/images/1789008034661-3f6fec9d-c989-441a-8132-30ee013e0d65.png" alt="OSPF Configuration" />
+<br />
+<br />
+Router Routing Protocol Configuration (R3 CLOUD):  <br/>
+<img src="https://www.image2url.com/r2/default/images/1789008154665-bb391918-e6c8-4de8-8b53-46628917dc2f.png" alt="OSPF Configuration" />
+<br />
+<br />
   SOP: Configure a Router-on-a-Stick Network with VLANs, DHCP, Wireless Access, and SSH
 
 ### Objective
