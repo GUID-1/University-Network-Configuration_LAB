@@ -139,8 +139,13 @@ Router DHCP & Sub-interface Configuration (R2 BRANCH_CAMPUS):  <br/>
 <img src="https://www.image2url.com/r2/default/images/1789004189879-c7f04e89-0852-4272-b768-fd37070e6243.png" alt="Sub-Interface Configuration" />
 <br />
 <br />
-CDP configuration (SW-6 ART&DESIGN):  <br/>
-<img src="https://www.image2url.com/r2/default/images/1788944112688-9416a806-55fa-4a98-8092-833e0aa1979f.png" alt="VLAN Configuration" />
+Router Sub-interface Configuration (R1 MAIN_CAMPUS):  <br/>
+<img src="https://www.image2url.com/r2/default/images/1789004616737-4a928c44-e613-4f03-8d7e-48e65b38236b.png" alt="Sub-Interface Configuration" />
+<img src="https://www.image2url.com/r2/default/images/1789004723389-8430c757-ae58-457c-a93b-fe9304bcc48e.png" alt="Sub-Interface Configuration" />
+<img src="https://www.image2url.com/r2/default/images/1789004951909-07148d80-a47e-4eb9-855a-32783de0067a.png" alt="Sub-Interface Configuration" />
+<img src="https://www.image2url.com/r2/default/images/1789005293008-7a7c92d5-94ac-4248-a5e0-6b535a447882.png" alt="Sub-Interface Configuration" />
+<img src="https://www.image2url.com/r2/default/images/1789005386468-86015b29-6c58-4d0a-891a-2ecdd0799679.png" alt="Sub-Interface Configuration" />
+<img src="https://www.image2url.com/r2/default/images/1789005469994-4c9fbd09-e3c9-423e-9b6e-6c14f99a1557.png" alt="Sub-Interface Configuration" />
 <br />
 <br />
 CDP configuration (SW-7 STD-LABS):  <br/>
