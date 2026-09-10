@@ -111,6 +111,54 @@ Router configuration (R3 CLOUD):  <br/>
 <img src="https://www.image2url.com/r2/default/images/1788954475657-e6ab5100-e6ca-4085-940b-af178d64e8be.png" alt="Interface Activation" />
 <br />
 <br />
+CDP configuration (SW-1-10, L3-SW, Routers): <br/>
+<img src="https://www.image2url.com/r2/default/images/1789000755020-7c808998-61a2-47c7-afb4-f97342176085.png" alt="CDP Enable" />
+ -This command can be used on every networking device to configure and enable CDP
+<br />
+<br />
+CDP Interface Disable (SW-2 HR):  <br/>
+<img src="https://www.image2url.com/r2/default/images/1789001629222-9eee7746-9be8-4cb4-abf7-dc502e971dfb.png" alt="CDP Disable" />
+-Disabling CDP on interfaces connected to end devices increases security
+-Discover which interfaces are connected to end devices and input the command listed to disable CDP (no cdp enable)
+<br />
+<br />
+Router Clock Rate Configuration (R1 MAIN_CAMPUS):  <br/>
+<img src="https://www.image2url.com/r2/default/images/1789002396959-37b61705-bde4-4416-b584-13a5a320f91c.png" alt="Clock Rate Configuration" />
+<br />
+<br />
+Router DHCP Configuration (R1 MAIN_CAMPUS):  <br/>
+<img src="https://www.image2url.com/r2/default/images/1789003154283-b2dd4a56-cae5-4417-bedf-c4bb379691d0.png" alt="DHCP Configuration" />
+<img src="https://www.image2url.com/r2/default/images/1789003290277-2638847c-0671-4fb1-b7cf-99f528b33bc9.png" alt="DHCP Configuration" />
+<img src="https://www.image2url.com/r2/default/images/1789003400309-a41aed58-08de-43eb-af1f-2c5389f2310c.png" alt="DHCP Configuration" />
+<br />
+<br />
+Router DHCP & Sub-interface Configuration (R2 BRANCH_CAMPUS):  <br/>
+<img src="https://www.image2url.com/r2/default/images/1789003648353-aed4e60a-7798-4139-ac2c-b82ab43fa3aa.png" alt="DHCP Configuration" />
+<img src="https://www.image2url.com/r2/default/images/1789003765441-c4466cdb-14c7-479b-8e5c-d6ab3ce92fd9.png" alt="DHCP Configuration" />
+<img src="https://www.image2url.com/r2/default/images/1789004066432-5fd4bd20-f255-4b12-9776-6e8c9f97b783.png" alt="Sub-Interface Configuration" />
+<img src="https://www.image2url.com/r2/default/images/1789004189879-c7f04e89-0852-4272-b768-fd37070e6243.png" alt="Sub-Interface Configuration" />
+<br />
+<br />
+CDP configuration (SW-6 ART&DESIGN):  <br/>
+<img src="https://www.image2url.com/r2/default/images/1788944112688-9416a806-55fa-4a98-8092-833e0aa1979f.png" alt="VLAN Configuration" />
+<br />
+<br />
+CDP configuration (SW-7 STD-LABS):  <br/>
+<img src="https://www.image2url.com/r2/default/images/1788945936280-f350bccc-3965-492f-8acd-c747b5805a08.png" alt="VLAN Configuration" />
+<br />
+<br />
+CDP configuration (SW-8 IT):  <br/>
+<img src="https://www.image2url.com/r2/default/images/1788946468168-bd0223f6-5877-4729-81c6-4f7de6c2e47b.png" alt="VLAN Configuration" />
+<br />
+<br />
+CDP configuration (SW-9 STAFF):  <br/>
+<img src="https://www.image2url.com/r2/default/images/1788946694336-2165a477-0253-4d0a-8804-01b07937523c.png" alt="VLAN Configuration" />
+<br />
+<br />
+CDP configuration (SW-10 STD-LABS):  <br/>
+<img src="https://www.image2url.com/r2/default/images/1788946863382-7f8f48af-f5ae-49cb-b3f3-260190b70e3f.png" alt="VLAN Configuration" />
+<br />
+<br />
  
   SOP: Configure a Router-on-a-Stick Network with VLANs, DHCP, Wireless Access, and SSH
 
